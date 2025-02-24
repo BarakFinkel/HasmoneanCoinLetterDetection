@@ -4,4 +4,4 @@ This project B.Sc project with Israel's Antiquities Authority investigates the u
 ### Links:
 - [Roboflow Model](https://app.roboflow.com/hasmoneancoinsletterdetection/hasmonean_coins_letter_detection)
 - [Model Interface](https://hasmonean.streamlit.app)
-- [Project Book]()
+- [Project Book](https://github.com/BarakFinkel/HasmoneanCoinLetterDetection/blob/main/Hasmonean_Coin_Classification_Project_Book.pdf)

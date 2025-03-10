@@ -10,5 +10,6 @@ This B.Sc project, made in collaboration with Israel's Antiquities Authority inv
 ### Links:
 - [Letter Detection Roboflow Model](https://app.roboflow.com/hasmoneancoinsletterdetection/hasmonean_coins_letter_detection)
 - [Ruler Detection XGBoost Model](https://github.com/NickBres/CoinsRecognition/blob/master/RulerClassification.ipynb)
+- [Dataset and Model on Roboflow](https://app.roboflow.com/hasmoneancoinsletterdetection/)
 - [Model Interface](https://hasmonean.streamlit.app)
 - [Project Book](https://github.com/BarakFinkel/HasmoneanCoinLetterDetection/blob/main/Hasmonean_Coin_Classification_Project_Book.pdf)
